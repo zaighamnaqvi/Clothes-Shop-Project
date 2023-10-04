@@ -1,0 +1,313 @@
+/* Large Screen For Laptops */
+@media (max-width:1024px) {
+    .fourth-div img {
+        height: 300px;
+    }
+
+    .do-something img {
+        object-fit: contain;
+    }
+
+    .fourth {
+        margin-top: 35px;
+    }
+
+    .mar {
+        display: flex;
+        align-content: center;
+        align-items: center;
+    }
+
+    .sec img {
+        height: 130px !important;
+    }
+
+    .first img {
+        width: 100%;
+        height: 100px !important;
+        box-sizing: border-box;
+        padding: 25px;
+        object-fit: contain;
+        color: white;
+        margin-bottom: 0px !important;
+        background-color: white;
+        /* background-color:rgba(255, 255, 255,0.6)!important; */
+        border: 0px solid rgba(163, 163, 163, 1);
+        margin: 0%;
+        /* height: 195px; */
+        transition: 0.3s;
+
+
+    }
+
+    .work-with {
+        height: 100%;
+    }
+
+    .join img {
+        height: 415px;
+    }
+
+    .mark-1 h4 {
+        font-size: 15px;
+    }
+
+    .card {
+        height: 321px;
+        /* margin: 0px 25px !important; */
+    }
+
+    .snip1361 {
+        /* margin: 10px 25px !important; */
+
+    }
+
+    .joi-1 {
+        margin-bottom: 25px !important;
+    }
+}
+
+
+
+/* Medium Screens For TAblet */
+@media (max-width:780px) {
+    .third {
+        display: contents;
+    }
+
+    .joi-1 {
+        margin-bottom: 25px !important;
+    }
+}
+
+
+
+
+
+
+
+
+
+/* Medium Screens For Small Tablet */
+
+@media (max-width:680px) {
+    .title {
+        font: small-caps 2.9em / 1 monospace;
+    }
+
+    .col-md-3 {
+
+        margin-bottom: 15px;
+
+    }
+
+    .gallery {
+        margin: 0px auto;
+        text-align: center;
+    }
+
+    .third {
+        display: flex;
+        /* justify-content: space-evenly; */
+        /* align-items: center; */
+        /* align-self: center; */
+        align-content: center;
+        flex-direction: column;
+        margin: 0px 50px !important;
+    }
+
+    .snip1361 {
+        height: 490px;
+        margin: 20px 110px !important;
+    }
+
+    .card {
+        height: 490px;
+        margin: 20px 110px !important;
+    }
+
+    .imgBx img {
+        min-width: 230px;
+        max-width: 315px;
+    }
+
+    .fourth {
+        display: flex;
+        /* justify-content: space-evenly; */
+        /* align-items: center; */
+        /* align-self: center; */
+        align-content: center;
+        flex-direction: column;
+        margin: 0px 50px !important;
+    }
+
+    .joi-1 {
+        margin-bottom: 25px !important;
+    }
+
+    .third {
+        display: contents;
+    }
+    .fourth{
+        display: contents;
+    }
+
+}
+
+
+/* Small Screens For Mobile */
+
+@media (max-width:480px) {
+    .title {
+        font: small-caps 2.2em / 1 monospace;
+    }
+
+    .sec-div {
+        margin-top: 136px;
+    }
+
+    .third {
+        display: flex;
+    }
+
+    .conten {
+        display: contents !important;
+    }
+
+    .fourth {
+        display: flex;
+    }
+
+    .snip1361 {
+        height: 410px !important;
+    }
+
+    .card {
+        height: 410px !important;
+    }
+
+    .join h2 {
+        font-size: 15px;
+    }
+
+    .join h4 {
+        font-size: 21px;
+    }
+
+    .join img {
+        height: 330px;
+    }
+
+    .join h5 {
+        font-size: 15px;
+    }
+
+    .join a {
+        font-size: 13px;
+    }
+
+    .shop h3 {
+        font-size: 16px;
+    }
+
+    .mar img {
+        width: 70%;
+        height: 407px !important;
+    }
+    .mar{
+        display: flex !important;
+        align-content: space-around;
+        align-items: center !important;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .shop a {
+        font-size: 13px;
+    }
+
+    .studio-menu h5 {
+        font-size: 15px;
+    }
+
+    .studio-menu h1 {
+        font-size: 20px;
+    }
+
+    .sec img {
+        height: 105px !important;
+    }
+
+    .first img {
+        padding: 0px;
+    }
+    .first{
+        padding: 0px;
+        margin: 0px;
+        /* height: 80px !important; */
+    }
+    .work-with {
+        height: 100% !important;
+        width: 100%;
+        padding: 0px;
+        text-align: center;
+        background-color: rgba(163, 163, 163, 1);
+        /* color: white; */
+    }
+    .work-with-1{
+        padding: 0px;
+
+    }
+
+    .first img {
+        width: 55px;
+        /* height: 100px !important; */
+        box-sizing: border-box;
+        padding: 10px;
+        object-fit: contain;
+        color: white;
+        margin-bottom: 30px;
+        background-color: white;
+        /* background-color:rgba(255, 255, 255,0.6)!important; */
+        border: 0px solid rgba(163, 163, 163, 1);
+        margin: 0%;
+        height: 195px;
+        transition: 0.3s;
+
+
+    }
+    .imgBx img{
+height: 407px !important;
+    }
+
+    .work-with-bg {
+        width: 100%;
+        padding: 0%;
+        margin: 0%;
+    }
+
+    .mark-1 h4 {
+        font-size: 9px;
+    }
+    .do-something{
+        background-size: 500px;
+    }
+    .do-something h1{
+        font-size: 33px;
+        padding: 0px;
+        margin: 0px;
+    }
+    .do-something h3 {
+    font-size: 10px;
+    }
+    .main h1 {
+        padding-top: 124px;
+    }
+    .main h3 {
+        padding-bottom: 120px;
+    }
+    .do-something {
+    margin-top: 132px !important;
+    }
+
+}
