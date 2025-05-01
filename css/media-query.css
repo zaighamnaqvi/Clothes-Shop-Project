@@ -1,0 +1,256 @@
+@media (max-width:1240px) {
+    .banner2 {
+        left: 700px;
+        width: 332px;
+        height: 231px;
+
+    }
+
+    .banner3 {
+        left: 606px;
+        width: 292px;
+        height: 209px;
+        top: 379px;
+
+    }
+
+    .banner-head h3 {
+        left: 400px;
+        top: 50px;
+    }
+
+    .banner4 {
+        width: 332px;
+        height: 218px;
+    }
+
+    .footer-distributed {
+        padding: 40px 50px !important;
+    }
+}
+
+@media (max-width:980px) {
+    .banner-sec {
+        display: none;
+    }
+
+    .banner2 {
+        left: 542px
+    }
+
+    .banner3 {
+        left: 545px;
+    }
+
+}
+
+@media (max-width:480px) {
+
+    img.media {
+        width: 100% !important;
+        height: 380px !important;
+    }
+
+    .main-slider .slick img {
+        height: 200px;
+    }
+
+    .card-body h3 {
+        font-size: 16px;
+
+    }
+
+    .card-text:last-child {
+        font-size: 12px;
+    }
+
+    .card {
+        margin-bottom: 15px;
+    }
+
+    .uper-head h1 {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .uper-head {
+        flex-direction: column;
+    }
+
+    .uper-head ul {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .uper-head ul li a i {
+        font-size: 25px !important;
+        text-align: center;
+    }
+
+    .animate-charcter {
+        font-size: 40px;
+        margin-top: 5px;
+        margin-right: 50px !important;
+    }
+
+    .lower-head {
+        flex-direction: row;
+        justify-content: space-between !important;
+        border-bottom: none;
+    }
+
+    .lower-head ul {
+        display: none;
+    }
+
+    a.btn {
+        font-size: 10px;
+    }
+
+    .lower-head .btn {
+        padding: 8px 12px;
+        margin-left: 5px;
+    }
+
+    .dive {
+        display: block;
+    }
+
+    .fas {
+        font-size: 20px;
+    }
+
+    .text {
+        font-size: 25px;
+    }
+
+    .dot {
+        height: 10px;
+        width: 10px;
+    }
+
+    .mb-3 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+
+    .numbertext {
+        display: none;
+    }
+
+    /* * {
+        overflow-x: hidden;
+    } */
+
+    .copyright {
+        font-size: 13px;
+        margin-top: 0px;
+    }
+
+    .fa-instagram:hover {
+        color: #F22700;
+        transition: 0.3s;
+    }
+
+    .fa-facebook:hover {
+        color: rgb(23, 115, 234);
+        transition: 0.3s;
+    }
+
+    .fa-twitter:hover {
+        color: #1C96E8;
+        transition: 0.3s;
+    }
+
+    .fa-telegram:hover {
+        color: #1F9BDA;
+        transition: 0.3s;
+    }
+
+    .footer-distributed .footer-center i {
+        line-height: 36px;
+
+    }
+
+    .footer-distributed {
+        margin-top: 10px !important;
+    }
+
+    .lower-head ul li {
+        font-weight: 300;
+    }
+
+    .sidebutton {
+        display: none;
+    }
+
+    .modal-header {
+        display: flex !important;
+        justify-content: flex-start !important;
+        align-items: baseline;
+    }
+
+    .copyright .modal-title {
+        margin-left: 10px;
+    }
+
+    .modal-header .close {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .modal-footer ul {
+        display: flex;
+    }
+
+    p.modal-links a {
+        padding: 11px 11px;
+    }
+
+    .modal-footer {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-align: center;
+        align-items: center;
+        -ms-flex-pack: end;
+        justify-content: space-between;
+        padding: 1rem;
+        border-top: 1px solid #e9ecef;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    p.modal-links {
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+        align-items: flex-start;
+        /* align-content: flex-start;*/
+    }
+
+    .banner {
+        display: none;
+    }
+
+    .footer-icons ul {
+        padding: 0px;
+        margin: 2px;
+    }
+
+    .copyright {
+        margin: 0px;
+    }
+
+    .row.main-slid {
+        margin-bottom: 100px !important;
+        margin-top: 10px !important;
+    }
+
+    .slickbar-bot {
+        margin-bottom: 100px;
+    }
+
+    .roller {
+        font-size: 35px;
+    }
+}
